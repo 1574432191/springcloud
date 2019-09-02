@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    config:
+    #github上的配置名称，注意没有yml后缀名
+      name: microservice-config-eureka 
+      #本次访问的环境配置项
+      profile: dev 
+      #远程库的分支名
+      label: master 
+      #Config配置中心地址，通过它获取microservice-configeureka.yml配置信息
+      uri: http://localhost:5001 

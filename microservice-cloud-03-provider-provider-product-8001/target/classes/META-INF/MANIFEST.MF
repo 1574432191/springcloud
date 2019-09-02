@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: microservice-cloud-03-provider-provider-product-
+ 8001
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.gjq
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/microservice-cloud-01/microservice-cloud-03-provide
+ r-provider-product-8001
+Created-By: Maven Integration for Eclipse
+
